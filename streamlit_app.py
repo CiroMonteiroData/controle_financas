@@ -10,7 +10,7 @@ import database as db
 
 st.set_page_config(page_title="Controle Financeiro", page_icon="💰", layout="wide")
 db.init_db()
-
+#teste
 # ---------------------- ESTILO ----------------------
 st.markdown("""
 <style>
